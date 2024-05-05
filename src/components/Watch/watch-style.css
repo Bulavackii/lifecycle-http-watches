@@ -1,0 +1,26 @@
+.watch {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+  }
+  
+  .watch__container {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  
+  .watch__item {
+    text-align: left;
+  }
+
+  .clock__title {
+    padding-left: 25%;
+  }
